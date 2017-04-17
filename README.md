@@ -33,12 +33,17 @@ Usage: instaBrute -h
 ## Follow us!:
 
 [Telegram](https://Telegram.me/The404Hacking)
+
 [YouTube](https://www.youtube.com/channel/UCNk5YxAKwrJI18ISH9hLONw/videos)
+
 [Instagram](https://instagram.com/The404Hacking)
+
 [GitHub](http://github.com/The404Hacking)
 
 ## Contacts:
 
 [Email](mailto:The404Hacking.Team@Gmail.Com)
+
 [Telegram Support](https://t.me/The404Hacking_Bot)
+
 [Admin Contact(Telegram)](https://t.me/MrHiddenRoBot)
